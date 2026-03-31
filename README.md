@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ricky
 
-I'm a Ph.D. student at Columbia University working at the intersection of AI and computational chemistry.
+I'm a Ph.D. candidate at Columbia University working at the intersection of AI and computational chemistry.
 
 My research is currently funded by the 🏆**NSF Graduate Research Fellowship**🏆
 
