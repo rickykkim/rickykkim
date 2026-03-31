@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Ricky
 
-These are some of my projects funded by the NSF Graduate Research Fellowship:
+I'm a Ph.D. student at Columbia University working at the intersection of AI and computational chemistry.
+My research is funded by the **NSF Graduate Research Fellowship**.
 
-- **AI-DARWIN**: a hybrid AI framework that combines symbolic representations of domain knowledge with deep learning techniques (e.g., transformer, RL) to identify novel reaction networks in atmospheric and combustion chemistry
+#### 🔬 Research Projects
 
-- **Statistical Teleodynamics**: a game-theoretic framework that incorporates principles from statistical thermodynamics to understand how phase transitions emerge in self-organizing systems (e.g., equilibrium dynamics in bird flocking, cluster formation in LLMs)
+- **AI-DARWIN** - A hybrid AI framework that combines symbolic representations of domain knowledge with deep learning (transformers, RL) to discover novel reaction networks in atmospheric and combustion chemistry
+- **Statistical Teleodynamics** - A game-theoretic framework drawing on statistical thermodynamics to model phase transitions in self-organizing systems (e.g., bird flocking, LLM cluster formation)
