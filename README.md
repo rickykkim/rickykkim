@@ -6,6 +6,6 @@ My research is currently funded by the 🏆**NSF Graduate Research Fellowship**�
 
 #### 🔬 Research Projects
 
-- **AI-DARWIN** - A neuro-symbolic AI framework combining symbolic reasoning with deep learning (transformers, RL) to discover novel reaction networks in atmospheric and combustion chemistry
+- **Neuro-symbolic AI** framework combining symbolic reasoning with deep learning (transformers, RL) to discover novel reaction networks in atmospheric and combustion chemistry
 
-- **Statistical Teleodynamics** - A game-theoretic framework drawing on statistical thermodynamics to model phase transitions in self-organizing systems (e.g., bird flocking, LLM cluster formation)
+- **Game-theoretic** framework drawing on statistical thermodynamics to model phase transitions in self-organizing systems (e.g., bird flocking, LLM cluster formation)
