@@ -2,7 +2,7 @@
 
 I'm a Ph.D. candidate at Columbia University, working at the intersection of AI and chemical engineering. I earned my B.S. in Chemical and Biomolecular Engineering at Georgia Tech, where I worked on computational molecular design (DFT/MD) for CO<sub>2</sub> capture and storage.
 
-My research is supported by the 🏆**NSF Graduate Research Fellowship Program**🏆 and by an industry partnership with Aspen Technology.
+My research is supported by an 🏆**NSF Graduate Research Fellowship**🏆 and by an industry partnership with Aspen Technology.
 
 #### 🔬 Research Projects
 
