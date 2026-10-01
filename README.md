@@ -6,8 +6,8 @@ My research is supported by an 🏆**NSF Graduate Research Fellowship**🏆 and 
 
 #### 🔬 Research Projects
 
-- **PSOFormer** is a transformer that reads the first 10 iterations of a particle swarm optimization (PSO) run and predicts its converged parameters in a single forward pass. This amortized optimization method transfers zero-shot to unseen ODE systems with 30-50x fewer simulator calls.
+- **PSOFormer** is a transformer that reads the first 10 iterations of a particle swarm optimization (PSO) run and predicts its converged parameters in a single forward pass. This amortized optimization method transfers zero-shot to unseen ODE systems with 30-50x fewer simulator calls than a full run.
 
-- **Self-Learning Evolutionary Algorithm (SLEA)** uses KL-UCB multi-armed bandits to learn search strategies online during combinatorial optimization. This neuro-symbolic method recovers the correct reaction network with ~6,800x fewer candidate evaluations than baselines.
+- **Self-Learning Evolutionary Algorithm (SLEA)** uses KL-UCB multi-armed bandits to adapt its search strategies online during combinatorial optimization. This neuro-symbolic method recovers the correct reaction network with 20-80x fewer candidate evaluations than static genetic algorithm baselines.
 
 - **Statistical Teleodynamics** is an econophysics framework that combines game-theoretic principles with statistical thermodynamics to model phase transitions in self-organizing systems. Current applications include developing a novel algorithm for autonomous drone swarms and modeling how communication topology shapes collective problem-solving in LLM agent swarms.
